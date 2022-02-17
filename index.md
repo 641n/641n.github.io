@@ -2,9 +2,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Hi I'm Jose Isagani Cruz Oloya
+
+### Hi I am Jose Isagani Cruz Oloya
 #### People call me Sir Gain
 
+```
 - Computer Teacher
 - Mikrotik Certified Routing Engineer (MCRE)
 - Mikrotik Certified User Management Engineer (MCUME)
@@ -15,6 +17,7 @@
 - Former Chair Person, Computer Department, Ateneo de Naga University Junior High School 
 - Former Chair Person, Computer Science Department, UST-Legazpi (former Aquinas University of Legazpi)
 - Former Math & Computer Teacher, Saint Agnes Academy of Legazpi
+ ```
  
 ### Follow me
 - [twitter](https://twitter.com/sirgain) 
