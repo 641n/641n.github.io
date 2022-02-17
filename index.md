@@ -2,50 +2,26 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is an example of a static webpage generated on GitHub Pages.
+### Hi I'm Jose Isagani Cruz Oloya
+#### People call me Sir Gain
 
-You can use the [editor on GitHub](https://github.com/641n/computer-9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Jekyll Static Site Generator
-Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
-
-### Markdown
-
-**Markdown** is a lightweight and easy-to-use syntax for styling your writing. Unlike HTML (Hyper Text **Markup** Language), it is simpler and easy to use and understand. Markdown files has a file extension of .md. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/641n/computer-9/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Computer Teacher
+- Mikrotik Certified Routing Engineer (MCRE)
+- Mikrotik Certified User Management Engineer (MCUME)
+- Mikrotik Certified Network Administrator (MCNA)
+- IT Professional, Moodler, Edmodo Certified Educator, ExtJS front-end developer, Full-stack developer
+- Former Admission and Aid Director, Ateneo de Naga University Junior High School 
+- Former Registrar, Ateneo de Naga University Junior High School 
+- Former Chair Person, Computer Department, Ateneo de Naga University Junior High School 
+- Former Chair Person, Computer Science Department, UST-Legazpi (former Aquinas University of Legazpi)
+- Former Math & Computer Teacher, Saint Agnes Academy of Legazpi
+ 
+### Follow me
+- [twitter](https://twitter.com/sirgain) 
+- [facebook](https://www.facebook.com/sirgain/)  
 
 <img src="gain-font-filipino.png" width="111" align="right">
 
 ### Link to my Other Static Website
-
 
 [Gain's Nook](http://sirgain.droppages.com/)
