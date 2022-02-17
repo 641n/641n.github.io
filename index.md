@@ -1,13 +1,13 @@
 # Welcome to Sir Gain's GitHub Page
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><br><br>
 
 ## Hi _!_  My name is Jose Isagani Cruz Oloya
 ### People call me Sir Gain
 
-
+- Husband and Father
 - Computer Teacher
 - Mikrotik Certified Routing Engineer (MCRE)
 - Mikrotik Certified User Management Engineer (MCUME)
