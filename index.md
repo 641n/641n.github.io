@@ -3,8 +3,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Hi I am Jose Isagani Cruz Oloya
-#### People call me Sir Gain
+## Hi I am Jose Isagani Cruz Oloya
+### People call me Sir Gain
 
 ```
 - Computer Teacher
