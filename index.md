@@ -5,6 +5,7 @@
 </div><br><br>
 
 ## Hi<i>!</i>  My name is Jose Isagani Cruz Oloya
+---
 ### People call me Sir Gain
 
 - Husband and Father
