@@ -9,7 +9,7 @@
 I am using GitHub pages to teach my students about Static Site Generators esp. the Jekyll Site Generator.
 
 ---
-### People call me Sir Gain
+### Students call me Sir Gain
 
 - Husband and Father
 - Computer Teacher, IT Professional
