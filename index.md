@@ -16,7 +16,7 @@
 - Former Admission and Aid Director, Ateneo de Naga University Junior High School 
 - Former Registrar, Ateneo de Naga University Junior High School 
 - Former Chair Person, Computer Department, Ateneo de Naga University Junior High School 
-- Former Chair Person, Computer Science Department, UST-Legazpi (former Aquinas University of Legazpi)
+- Former Chair Person, Computer Science Department, UST-Legazpi (former AUL)
 - Former Math & Computer Teacher, Saint Agnes Academy of Legazpi
  
 ### Follow me
