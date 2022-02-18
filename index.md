@@ -29,6 +29,6 @@ Students call me Sir Gain. I am using GitHub pages to teach my students about Ma
 
 <img src="gain-font-filipino.png" width="111" align="right">
 
-### Link to my Other Static Website
+### Link to my other Static Website
 
-- [Gain's Nook](http://sirgain.droppages.com/)
+- [Gain's Nook](http://sirgain.droppages.com/) - generated with [DropPages](https://droppages.com/).
