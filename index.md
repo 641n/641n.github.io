@@ -4,15 +4,15 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><br><br>
 
-## Hi _!_  My name is Jose Isagani Cruz Oloya
+## Hi<i>!</i>  My name is Jose Isagani Cruz Oloya
 ### People call me Sir Gain
 
 - Husband and Father
-- Computer Teacher
+- Computer Teacher, IT Professional
 - Mikrotik Certified Routing Engineer (MCRE)
 - Mikrotik Certified User Management Engineer (MCUME)
 - Mikrotik Certified Network Administrator (MCNA)
-- IT Professional, Moodler, Edmodo Certified Educator, ExtJS front-end developer, Full-stack developer
+- Moodler, Edmodo Certified Educator, ExtJS front-end developer, Full-stack developer
 - Former Admission and Aid Director, Ateneo de Naga University Junior High School 
 - Former Registrar, Ateneo de Naga University Junior High School 
 - Former Chair Person, Computer Department, Ateneo de Naga University Junior High School 
