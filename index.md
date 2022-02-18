@@ -6,10 +6,10 @@
 
 ## Hi<i>!</i>  My name is Jose Isagani Cruz Oloya
 
-I am using GitHub pages to teach my students about Static Site Generators esp. the Jekyll Site Generator.
+Students call me Sir Gain. I am using GitHub pages to teach my students about Mark Down and Static Site Generators esp. Jekyll.
 
 ---
-### Students call me Sir Gain
+### About Me
 
 - Husband and Father
 - Computer Teacher, IT Professional
