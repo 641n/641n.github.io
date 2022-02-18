@@ -5,6 +5,9 @@
 </div><br><br>
 
 ## Hi<i>!</i>  My name is Jose Isagani Cruz Oloya
+
+I am using GitHub pages to teach my students about Static Site Generators esp. the Jekyll Site Genetrator.
+
 ---
 ### People call me Sir Gain
 
