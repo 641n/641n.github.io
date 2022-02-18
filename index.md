@@ -1,14 +1,14 @@
 # Welcome to Sir Gain's GitHub Page
 
-**Hi<i>!</i> My name is J. Isagani C. Oloya**
+**Hi<i>!</i> My name is Jose Isagani Cruz Oloya**
 
 Students call me Sir Gain. I am using Github pages to teach my students about Mark Down and Static Site Generators esp. Jekyll.
 
-<br><div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div><br>
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ---
+
 ### About Me
 
 - Husband and Father
