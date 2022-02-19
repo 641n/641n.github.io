@@ -2,7 +2,7 @@
 
 **Hi<i>!</i> My name is Jose Isagani Cruz Oloya**
 
-Students call me Sir Gain. I am using Github pages to teach my students about Mark Down and Static Site Generators esp. Jekyll.
+Students call me Sir Gain. I am using Github pages to teach my students about Markdown and Static Site Generators esp. Jekyll.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -14,6 +14,10 @@ Markdown is much simpler than HTML. To learn more about Markdown, check this [ch
 ### Multiple pages in GitHub Pages
 
 In order to add additional pages that matches your theme you need to do some tinkering. Check out [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto) to learn how to create multiple pages in GitHub. Alternatively, you can create additional repositories with individual pages and link all of them.
+
+### Static Site Generators
+
+Static Site Generators are generally faster than Dynamic Sites, hence its popularity. GitHub pages make use of the Jekyll Static Site Generator but there are other generators on the Web. Check this site for the [list](https://jamstack.org/generators/) of the popular Static Site Generators.
 
 ### About Me
 
