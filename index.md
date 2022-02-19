@@ -17,11 +17,13 @@ In order to add additional pages that matches your theme you need to do some tin
 
 ### Static Site Generators
 
-Static Site Generators are generally faster than Dynamic Sites, hence its popularity. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/) Static Site Generator but there are other generators on the Web. Check this [list](https://jamstack.org/generators/) of popular Static Site Generators.
+Static Site Generators are generally faster than Dynamic Sites, hence there popularity. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/) Static Site Generator but there are other available generators on the Web. Check this [list](https://jamstack.org/generators/) of popular Static Site Generators.
+
+This is my [other site](http://sirgain.droppages.com/) that was created using [DropPages](https://droppages.com/), a Static Site Generator for Dropbox.
 
 ### Custom Theme
 
-You can create your own custom themes but they involve some work of course. Check this [example site](https://whoisjuan.me/).
+You can create your own custom theme but they involve some work of course. Check this [example site](https://whoisjuan.me/).
 
 ### About Me
 
@@ -37,12 +39,14 @@ You can create your own custom themes but they involve some work of course. Chec
 - Former Chair Person, Computer Science Department, UST-Legazpi (former AUL)
 - Former Math & Computer Teacher, Saint Agnes Academy of Legazpi
  
+<img src="gain-font-filipino.png" width="111" align="right">
+
 ### Follow me
 - [twitter](https://twitter.com/sirgain) 
 - [facebook](https://www.facebook.com/sirgain/)  
 
-<img src="gain-font-filipino.png" width="111" align="right">
 
-### Link to my other Static Website
 
-- [Gain's Nook](http://sirgain.droppages.com/) - generated with [DropPages](https://droppages.com/).
+
+
+
