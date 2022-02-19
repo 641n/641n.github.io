@@ -7,7 +7,9 @@ Students call me Sir Gain. I am using Github pages to teach my students about Ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+### Multiple pages in GitHub Pages
 
+Check [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto) to learn how to create multiple pages in GitHub pages.
 
 ### About Me
 
