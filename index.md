@@ -26,7 +26,7 @@ Static Site Generators are generally faster than Dynamic Sites, hence its popula
 - Mikrotik Certified Routing Engineer (MCRE)
 - Mikrotik Certified User Management Engineer (MCUME)
 - Mikrotik Certified Network Administrator (MCNA)
-- Moodler, Edmodo Certified Educator, ExtJS front-end developer, Full-stack developer
+- Moodler, Edmodo Certified Educator, ExtJS front-end developer, Full-stack developer, Linux lover
 - Former Admission and Aid Director, Ateneo de Naga University Junior High School 
 - Former Registrar, Ateneo de Naga University Junior High School 
 - Former Chair Person, Computer Department, Ateneo de Naga University Junior High School 
