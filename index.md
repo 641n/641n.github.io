@@ -7,9 +7,13 @@ Students call me Sir Gain. I am using Github pages to teach my students about Ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+### Markdown Format
+
+Markdown is much simpler than HTML. To learn more about Markdown, check this [cheat sheet](https://www.markdownguide.org/cheat-sheet/).
+
 ### Multiple pages in GitHub Pages
 
-Check [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto) to learn how to create multiple pages in GitHub pages.
+In order to add additional pages that matches your theme you need to do some tinkering. Check out [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto) to learn how to create multiple pages in GitHub. Alternatively, you can create additional repositories with individual pages and link all of them.
 
 ### About Me
 
