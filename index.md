@@ -11,15 +11,15 @@ Students call me Sir Gain. I am using Github pages to teach my students about Ma
 
 Markdown is much simpler than HTML. To learn more about Markdown, check this [cheat sheet](https://www.markdownguide.org/cheat-sheet/).
 
+### Static Site Generators
+
+Static Site Generators are generally faster than Dynamic Sites, hence their popularity. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/) Static Site Generator but there are other available generators on the Web. Check this [list](https://jamstack.org/generators/) of popular Static Site Generators.
+
+This is my [other site](http://sirgain.droppages.com/) that was created using [DropPages](https://droppages.com/), a Static Site Generator for Dropbox.
+
 ### Multiple pages in GitHub Pages
 
 In order to add additional pages that matches your theme you need to do some tinkering. Check out [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto) to learn how to create multiple pages in GitHub. Alternatively, you can create additional repositories with individual pages and link all of them.
-
-### Static Site Generators
-
-Static Site Generators are generally faster than Dynamic Sites, hence there popularity. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/) Static Site Generator but there are other available generators on the Web. Check this [list](https://jamstack.org/generators/) of popular Static Site Generators.
-
-This is my [other site](http://sirgain.droppages.com/) that was created using [DropPages](https://droppages.com/), a Static Site Generator for Dropbox.
 
 ### Custom Theme
 
