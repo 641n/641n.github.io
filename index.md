@@ -23,7 +23,7 @@ In order to add additional pages that matches your theme you need to do some tin
 
 ### Custom Theme
 
-You can create your own custom theme but they involve some work of course. Check this [example site](https://whoisjuan.me/).
+You can create your own custom theme but they involve some work of course. Check out [whoisjuan.github.io](http://whoisjuan.github.io/) for an example.
 
 ### About Me
 
