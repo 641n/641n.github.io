@@ -19,6 +19,10 @@ In order to add additional pages that matches your theme you need to do some tin
 
 Static Site Generators are generally faster than Dynamic Sites, hence its popularity. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/) Static Site Generator but there are other generators on the Web. Check this [list](https://jamstack.org/generators/) of popular Static Site Generators.
 
+### Custom Theme
+
+You can create your own custom themes but they involve some work of course. Check this [example site](https://whoisjuan.me/).
+
 ### About Me
 
 - Husband and Father
