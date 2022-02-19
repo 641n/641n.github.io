@@ -15,7 +15,7 @@ Markdown is much simpler than HTML. To learn more about Markdown, check this [ch
 
 Static Site Generators are generally faster than Dynamic Sites, hence their popularity. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/) Static Site Generator but there are other available generators on the Web. Check this [list](https://jamstack.org/generators/) of popular Static Site Generators.
 
-This is my [other site](http://sirgain.droppages.com/) that was created using [DropPages](https://droppages.com/), a Static Site Generator for Dropbox.
+I have [another site](http://sirgain.droppages.com/) that was created using [DropPages](https://droppages.com/), a Static Site Generator for Dropbox.
 
 ### Multiple pages in GitHub Pages
 
