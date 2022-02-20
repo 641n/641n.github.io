@@ -10,9 +10,9 @@ Markdown is much simpler than HTML. To learn more about Markdown, check this [ch
 
 ### Static Site Generators
 
-Static Site Generators are generally faster than Dynamic Sites, hence their popularity. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/ "Press Ctrl if you wish to open this link in another tab") Static Site Generator but there are other available generators on the Web. Check this [list](https://jamstack.org/generators/ "Press Ctrl if you wish to open this link in another tab") of popular Static Site Generators.
+Static sites are generally faster than dynamic sites, hence the popularity of static site generators. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/ "Press Ctrl if you wish to open this link in another tab") static site generator. Visit [Jamstock](https://jamstack.org/generators/ "Press Ctrl if you wish to open this link in another tab") to check the list of popular static site generators.
 
-I have [another site](http://sirgain.droppages.com/ "Press Ctrl if you wish to open this link in another tab") that was created using [DropPages](https://droppages.com/ "Press Ctrl if you wish to open this link in another tab"), a Static Site Generator for Dropbox.
+I have [another site](http://sirgain.droppages.com/ "Press Ctrl if you wish to open this link in another tab") that was created using [DropPages](https://droppages.com/ "Press Ctrl if you wish to open this link in another tab"), a static site generator for Dropbox.
 
 ### Multiple pages in GitHub Pages
 
@@ -24,8 +24,8 @@ You can create your own custom theme but they involve some work of course. Check
 
 ### About Me
 
-- Husband and Father
-- Computer Teacher, IT Professional
+- Husband, father and pro-pet
+- Computer Teacher and IT Professional
 - Mikrotik Certified Routing Engineer (MCRE)
 - Mikrotik Certified User Management Engineer (MCUME)
 - Mikrotik Certified Network Administrator (MCNA)
