@@ -6,7 +6,8 @@ Hi<i>!</i> My name is Jose *Isagani Cruz* Oloya. Students call me Sir Gain. I am
 
 ### Markdown Format
 
-Markdown is much simpler than HTML. To learn more about Markdown, check this [cheat sheet](https://www.markdownguide.org/cheat-sheet/ "Press Ctrl if you wish to open this link in another tab").
+Markdown is much simpler than HTML. It is a lightweight and easy-to-use syntax for styling your writing. Markdown files has a file extension of `.md`.
+To learn more about Markdown, check this [cheat sheet](https://www.markdownguide.org/cheat-sheet/ "Press Ctrl if you wish to open this link in another tab").
 
 ### Static Site Generators
 
@@ -39,8 +40,8 @@ You can create your own custom theme but they involve some work of course. Check
 <img src="gain-font-filipino.png" width="111" align="right">
 
 ### Follow me
-- [twitter](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") 
-- [facebook](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab")  
+[`twitter`](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") 
+[`facebook`](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab")  
 
 
 
