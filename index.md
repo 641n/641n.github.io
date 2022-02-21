@@ -20,7 +20,7 @@ In order to add additional pages that matches your theme you need to do some tin
 
 ### Custom Theme
 
-You can create your own custom theme but they involve some work of course. Check out [whoisjuan.github.io](http://whoisjuan.github.io/ "Press Ctrl if you wish to open this link in another tab") for an example.
+You can create your own custom theme but they involve some work of course. Check out [whoisjuan.github.io](http://whoisjuan.github.io/ "Press Ctrl if you wish to open this link in another tab") for an example. Check this [blog](https://github.blog/2017-11-29-use-any-theme-with-github-pages/) to learn more about using other themes in GitHub pages.
 
 ### About Me
 
