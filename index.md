@@ -4,6 +4,8 @@ Hi<i>!</i> My name is Jose *Isagani Cruz* Oloya. Students call me Sir Gain. I am
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+![rick rolling](rickrolling.gif)
+
 ### Markdown Format
 
 Markdown is much simpler than HTML. It is a lightweight and easy-to-use syntax for styling your writing. Markdown files has a file extension of `.md`.
