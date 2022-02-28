@@ -40,7 +40,7 @@ You can create your own custom theme but they involve some work of course. Check
 <img src="gain-font-filipino.png" width="111" align="right">
 
 ### Follow me
-[`twitter`](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") [`facebook`](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab") [`Gain's nook`](http://sirgain.droppages.com/) [`Computer 9`](https://641n.github.ion/computer-9/)
+[`twitter`](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") [`facebook`](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab") [`Gain's nook`](http://sirgain.droppages.com/) [`Computer 9`](https://641n.github.io/computer-9/)
 
 ![rick rolling](rickrolling.gif)
 
