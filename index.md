@@ -42,9 +42,9 @@ You can create your own custom theme but they involve some work of course. Check
 ### Follow me
 [`twitter`](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") [`facebook`](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab") [`Gain's nook`](http://sirgain.droppages.com/) [`Computer 9`](https://641n.github.io/computer-9/)
 
-<div id="sfc764wwamms8tcywjrxw89qs2p9stkdds3"></div>
-<script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=764wwamms8tcywjrxw89qs2p9stkdds3&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=764wwamms8tcywjrxw89qs2p9stkdds3" border="0" title="free hit counter" alt="free hit counter"></a></noscript>
+<div id="sfclt2gfbw6m3nyqghqxxcy1q2jha2mfjta"></div>
+<script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=lt2gfbw6m3nyqghqxxcy1q2jha2mfjta&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=lt2gfbw6m3nyqghqxxcy1q2jha2mfjta" border="0" title="web counter" alt="web counter"></a></noscript>
 
 
 
