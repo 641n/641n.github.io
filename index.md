@@ -1,3 +1,5 @@
+<embed src="dreams.mp3" loop="true" autostart="true" width="2" height="0">
+
 # Welcome to Sir Gain's GitHub Page 🤞
 
 >Hi! My name is Jose *Isagani Cruz* Oloya. Students call me Sir Gain. I am using Github pages to teach my students about `Markdown` and **Static Site Generators**.
@@ -27,4 +29,4 @@ Tapos na po.
 ![Rick Rolling](rickrolling.gif)
 ![Ateneans](https://jhsportal.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png)
 
-<embed src="dreams.mp3" loop="true" autostart="true" width="2" height="0">
+
