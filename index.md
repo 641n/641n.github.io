@@ -1,4 +1,7 @@
-<embed src="dreams.mp3" loop="true" autostart="true" width="150" height="100"> 
+<audio controls>
+  <source src="dreams.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 # Welcome to Sir Gain's GitHub Page 🤞
 
