@@ -1,4 +1,4 @@
-<embed src="dreams.mp3" loop="true" autostart="true" width="2" height="0"></embed>
+<embed src="dreams.mp3" loop="true" autostart="true" width="2" height="1"> </embed>
 
 # Welcome to Sir Gain's GitHub Page 🤞
 
