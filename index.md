@@ -8,6 +8,7 @@
 [`Twitter`](https://www.twitter.com/sirgain)
 
 ---
+
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |--------|---------|-----------|----------|--------|
 | Coffee | | Tocino | Hotdog | Tapsilog | |
