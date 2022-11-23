@@ -1,4 +1,4 @@
-<audio autoplay muted controls>
+<audio controls autoplay muted>
   <source src="dreams.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
