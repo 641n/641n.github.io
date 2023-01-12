@@ -11,3 +11,6 @@ A list of my favorite Anime
 3. Assassination Classroom
 
 `I am <b>bold</b>`
+
+[`Facebook`](https://www.facebook.com/sirgain)
+[`Twitter`](https://www.twitter.com/sirgain)
