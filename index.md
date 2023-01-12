@@ -1,35 +1,13 @@
-<audio controls autoplay>
-  <source src="dreams.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-# Welcome to Sir Gain's GitHub Page 🤞
-
->Hi! My name is Jose *Isagani Cruz* Oloya. Students call me Sir Gain. I am using Github pages to teach my students about `Markdown` and **Static Site Generators**.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Gv0H-vPoDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[`Facebook`](https://www.facebook.com/sirgain)
-[`Twitter`](https://www.twitter.com/sirgain)
-
+# 641n.github.io
+Isagani Oloya
 ---
+### Hello *Bobola*
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
-|--------|---------|-----------|----------|--------|
-| Coffee | | Tocino | Hotdog | Tapsilog | |
+> O Jesus, through the immaculate heart of Mary, I offer You my prayers, works, joys and sufferings of this day in union with the holy sacrifice of the Mass throughout the world. I offer them for all the intentions of Your sacred heart: the salvation of souls, reparation for sin, the reunion of all Christians. I offer them for the intentions of our bishops and of all the apostles of prayer, and in particular for those recommended by our Holy Father this month. Amen.
 
-```
-Ako'y tutula
-Mahabang mahaba
-Ako'y uupo
-Tapos na po.
-```
+A list of my favorite Anime
+1. Hunter X Hunter
+2. Hero Academia
+3. Assassination Classroom
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-![Rick Rolling](rickrolling.gif)
-![Ateneans](https://jhsportal.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png)
-
-
+`I am <b>bold</b>`
