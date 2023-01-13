@@ -35,3 +35,11 @@ My Favorite Foods
 [`Twitter`](https://www.twitter.com/sirgain)
 
 ![Book Face](book-face-photo.jpg)
+
+| Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
+|------|--------|---------|-----------|----------|--------|
+| Breakfast | Tapsilog | Hotdog | Tinola |  | Adobo |
+| Lunch | Chicken Fillet | Lumpia | Afritada | Siomai | Adobo |
+
+
+
