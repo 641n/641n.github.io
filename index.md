@@ -1,13 +1,13 @@
 # Welcome 
 *Isagani Oloya*
 
-LG **ARROWSMITH**
+LG **BOBOLA**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ux-MNKChlrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWG8enSfkCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4sWSpwq3LiO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 > Soul of Christ, sanctify me.
 Body of Christ, save me.
@@ -42,8 +42,10 @@ My Favorite Foods
 
 Important Dates
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
-|--------|---------|-----------|----------|--------|
-| Tapsilog | Siomai | Lumpia | | Hotdog |
+| Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
+|------|--------|---------|-----------|----------|--------|
+| Breakfast | Tapsilog | Siomai | Lumpia | | Hotdog |
+| Lunch | Mongo | Misua | Chopseuy | Sinigang | Samgyupsal |
+| Dinner | Kare-Kare | Lechon Kawali | Fried Chicken | Pork Adobo | Ice Cream |
 
 
