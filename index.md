@@ -39,7 +39,7 @@ My Favorite Foods
 [`Facebook`](https://www.facebook.com/sirgain)
 [`Twitter`](https://www.twitter.com/sirgain)
 
-![Blackout Poetry](blackout_poetry.jpg)
+![Book Face](book-face-photo.jpg)
 
 Important Dates
 
