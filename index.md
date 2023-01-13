@@ -1,7 +1,7 @@
 # 641n.github.io
 *Isagani Oloya*
 
-LG **CAMPION**
+LG **BREBEUF**
 
 ---
 
@@ -34,4 +34,4 @@ My Favorite Foods
 [`Facebook`](https://www.facebook.com/sirgain)
 [`Twitter`](https://www.twitter.com/sirgain)
 
-![TxT](https://img.quizur.com/f/img612ae1a163f0b4.11326717.jpg?lastEdited=1630200231)
+![Book Face](book-face-photo.jpg)
