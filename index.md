@@ -1,9 +1,9 @@
 # Welcome to
 *Isagani Oloya*
 
-LG **BREBEUF**
+LG **CAMPION**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ux-MNKChlrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WzEQQqUNovw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -36,12 +36,13 @@ My Favorite Foods
 [`Facebook`](https://www.facebook.com/sirgain)
 [`Twitter`](https://www.twitter.com/sirgain)
 
-![Book Face](book-face-photo.jpg)
+![Blackout Poetry](blackout_poetry.jpg)
 
-| Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
-|------|--------|---------|-----------|----------|--------|
-| Breakfast | Tapsilog | Hotdog | Tinola |  | Adobo |
-| Lunch | Chicken Fillet | Lumpia | Afritada | Siomai | Adobo |
+Important Dates
 
+| Date | Description |
+|------|-------------|
+| January 22 | Lunar New Year |
+| February 25 | Edsa Day Celebration |
 
 
