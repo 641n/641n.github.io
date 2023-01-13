@@ -50,3 +50,7 @@ Important Dates
 | Dinner | Kare-Kare | Lechon Kawali | Fried Chicken | Pork Adobo | Ice Cream |
 
 
+- [x] Insert Tables
+- [x] Insert Videos
+- [x] Insert Playlist
+- [ ] Other
