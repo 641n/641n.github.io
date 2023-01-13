@@ -7,6 +7,8 @@ LG **CAMPION**
 
 ---
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX4sWSpwq3LiO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 > Soul of Christ, sanctify me.
 Body of Christ, save me.
 Blood of Christ, inebriate me.
