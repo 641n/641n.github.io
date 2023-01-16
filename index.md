@@ -23,6 +23,7 @@ You can create your own custom theme but they involve some work of course. Check
 
 - Husband, father and pro-pet
 - Computer Teacher and IT Professional
+- Certified Google Educator (GCE) 
 - Mikrotik Certified Routing Engineer (MCRE)
 - Mikrotik Certified User Management Engineer (MCUME)
 - Mikrotik Certified Network Administrator (MCNA)
