@@ -1,56 +1,43 @@
-# Welcome 🤼
-*Isagani Oloya*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-LG **BOBOLA**
+### Markdown Format
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWG8enSfkCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Markdown is much simpler than HTML. It is a lightweight and easy-to-use syntax for styling your writing. Markdown files has a file extension of `.md`.
+To learn more about Markdown, check this [cheat sheet](https://www.markdownguide.org/cheat-sheet/ "Press Ctrl if you wish to open this link in another tab").
 
----
+### Static Site Generators
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX9sIqqvKsjG8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Static sites are generally faster than dynamic sites, hence the popularity of static site generators. GitHub pages make use of the [Jekyll](https://jamstack.org/generators/jekyll/ "Press Ctrl if you wish to open this link in another tab") static site generator. Visit [Jamstock](https://jamstack.org/generators/ "Press Ctrl if you wish to open this link in another tab") to check the list of popular static site generators.
 
+I have [another site](http://sirgain.droppages.com/ "Press Ctrl if you wish to open this link in another tab") that was created using [DropPages](https://droppages.com/ "Press Ctrl if you wish to open this link in another tab"), a static site generator for Dropbox.
 
-> Soul of Christ, sanctify me.
-Body of Christ, save me.
-Blood of Christ, inebriate me.
-Water from the side of Christ, wash me.
-Passion of Christ, strengthen me.
-O Good Jesus, hear me.
-Within your wounds hide me.
-Permit me not to be separated from you.
-From the wicked foe, defend me.
-At the hour of my death, call me
-and bid me come to you
-That with your saints I may praise you
-For ever and ever. Amen.
+### Multiple pages in GitHub Pages
 
-My 3 Favorite Animes
-- Hero Academia
-- Hunter X Hunter
-- 7 Deadly Sins
+In order to add additional pages that matches your theme you need to do some tinkering. Check out [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto "Press Ctrl if you wish to open this link in another tab") to learn how to create multiple pages in GitHub. Alternatively, you can create additional repositories with individual pages and link all of them.
 
-My Favorite Foods
-  1. Kare-Kare
-  2. Adobong Manok
-  3. Sinigang
+### Custom Theme
 
-`I am <b>bold</b>`
+You can create your own custom theme but they involve some work of course. Check out [whoisjuan.github.io](http://whoisjuan.github.io/ "Press Ctrl if you wish to open this link in another tab") for an example. Check this [blog](https://github.blog/2017-11-29-use-any-theme-with-github-pages/) to learn more about using other themes in GitHub pages.
 
-[`Facebook`](https://www.facebook.com/sirgain)
-[`Twitter`](https://www.twitter.com/sirgain)
+### About Me
 
-![Book Face](book-face-photo.jpg)
+- Husband, father and pro-pet
+- Computer Teacher and IT Professional
+- Mikrotik Certified Routing Engineer (MCRE)
+- Mikrotik Certified User Management Engineer (MCUME)
+- Mikrotik Certified Network Administrator (MCNA)
+- Moodler, Edmodo Certified Educator, ExtJS front-end developer, Full-stack developer, Linux lover
+- Former Admission and Aid Director, Ateneo de Naga University Junior High School 
+- Former Registrar, Ateneo de Naga University Junior High School 
+- Former Chair Person, Computer Department, Ateneo de Naga University Junior High School 
+- Former Chair Person, Computer Science Department, UST-Legazpi (formerly AUL)
+- Former Math & Computer Teacher, Saint Agnes Academy of Legazpi
+ 
+<img src="gain-font-filipino.png" width="111" align="right">
 
-Important Dates
+### Follow me
+[`twitter`](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") [`facebook`](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab") [`Gain's nook`](http://sirgain.droppages.com/) [`Computer 9`](https://641n.github.io/computer-9/)
 
-| Meal | Monday | Tuesday | Wednesday | Thursday | Friday |
-|------|--------|---------|-----------|----------|--------|
-| Breakfast | Tapsilog | Siomai | Lumpia | | Hotdog |
-| Lunch | Mongo | Misua | Chopseuy | Sinigang | Samgyupsal |
-| Dinner | Kare-Kare | Lechon Kawali | Fried Chicken | Pork Adobo | Ice Cream |
-
-
-- [x] Insert Tables
-- [x] Insert Videos
-- [x] Insert Playlist
-- [ ] Other
+<div id="sfclt2gfbw6m3nyqghqxxcy1q2jha2mfjta"></div>
+<script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=lt2gfbw6m3nyqghqxxcy1q2jha2mfjta&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=lt2gfbw6m3nyqghqxxcy1q2jha2mfjta" border="0" title="web counter" alt="web counter"></a></noscript>
