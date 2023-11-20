@@ -15,6 +15,23 @@ I have [another site](http://sirgain.droppages.com/ "Press Ctrl if you wish to o
 
 In order to add additional pages that matches your theme you need to do some tinkering. Check out [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto "Press Ctrl if you wish to open this link in another tab") to learn how to create multiple pages in GitHub. Alternatively, you can create additional repositories with individual pages and link all of them.
 
+### Themes
+
+A theme is a predefined design for use in your webpage. Jekyll has the following available themes to choose from:
+- [`architect`](https://641n.github.io/architect/)
+- [`cayman`](https://641n.github.io/cayman/)
+- [`dinky`](https://641n.github.io/dinky/)
+- [`hacker`](https://641n.github.io/hacker/)
+- [`leap-day`](https://641n.github.io/leap-day/)
+- [`merlot`](https://641n.github.io/merlot/)
+- [`midnight`](https://641n.github.io/midnight/)
+- [`minimal`](https://641n.github.io/minimal/)
+- [`modernist`](https://641n.github.io/modernist/)
+- [`primer`](https://641n.github.io/primer/)
+- [`slate`](https://641n.github.io/slate/)
+- [`tactile`](https://641n.github.io/tactile/)
+- [`time-machine`](https://641n.github.io/time-machine/)
+
 ### Custom Theme
 
 You can create your own custom theme but they involve some work of course. Check out [whoisjuan.github.io](http://whoisjuan.github.io/ "Press Ctrl if you wish to open this link in another tab") for an example. Check this [blog](https://github.blog/2017-11-29-use-any-theme-with-github-pages/) to learn more about using other themes in GitHub pages.
