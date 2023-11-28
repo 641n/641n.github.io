@@ -56,7 +56,7 @@ You can create your own custom theme but they involve some work of course. Check
 
 ### Follow me
 [`twitter`](https://twitter.com/sirgain "Press Ctrl if you wish to open this link in another tab") [`facebook`](https://www.facebook.com/sirgain/ "Press Ctrl if you wish to open this link in another tab") [`Gain's nook`](http://sirgain.droppages.com/) [`Computer 9`](https://641n.github.io/computer-9/) 
-[`Gain' Portfolio`](https://sites.google.com/gbox.adnu.edu.ph/isagani/home)
+[`Gain's Portfolio`](https://sites.google.com/gbox.adnu.edu.ph/isagani/home)
 
 <div id="sfclt2gfbw6m3nyqghqxxcy1q2jha2mfjta"></div>
 <script type="text/javascript" src="https://counter9.stat.ovh/private/counter.js?c=lt2gfbw6m3nyqghqxxcy1q2jha2mfjta&down=async" async></script>
