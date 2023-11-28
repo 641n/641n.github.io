@@ -1,7 +1,7 @@
 ---
-title: ABOUT PAGE
+title: Student Github Pages
 layout: template
-filename: about.md
+filename: list.md
 --- 
 
 # List of student pages
