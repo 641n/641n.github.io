@@ -1,6 +1,5 @@
 ---
 title: Student Github Pages
-layout: template
 filename: list.md
 --- 
 
