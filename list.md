@@ -1,8 +1,3 @@
----
-title: Student Github Pages
-filename: list.md
---- 
-
 # List of student pages
 ## Red Batch 2023-2024
 
