@@ -36,6 +36,12 @@ A theme is a predefined design for use in your webpage. Jekyll has the following
 
 You can create your own custom theme but they involve some work of course. Check out [whoisjuan.github.io](http://whoisjuan.github.io/ "Press Ctrl if you wish to open this link in another tab") for an example. Check this [blog](https://github.blog/2017-11-29-use-any-theme-with-github-pages/) to learn more about using other themes in GitHub pages.
 
+### Typography
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrNi9FmdlxY?si=Zoo19AAu_L5SDAEP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[10 Golden Rules To Imrove Your Typography Skills](https://digitalsynopsis.com/design/typography-tutorial/)
+
 ### About Me
 
 - Husband, father and pro-pet
