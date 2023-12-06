@@ -22,6 +22,8 @@ title: 'How to: Multiple Pages in Github Pages'
 inciude: list.md
 ```
 
+Then create a link in your readme.md, i.e., ` [list](list.md) `
+
 ### Themes
 
 A theme is a predefined design for use in your webpage. Jekyll has the following available themes to choose from:
