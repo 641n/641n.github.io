@@ -16,6 +16,7 @@ I have [another site](http://sirgain.droppages.com/ "Press Ctrl if you wish to o
 In order to add additional pages that matches your theme you need to do some tinkering. You can use the **include** directive in your _config.yml. Check out [this page](https://phuston.github.io/patrickandfrantonarethebestninjas/howto "Press Ctrl if you wish to open this link in another tab") to learn how to create multiple pages in GitHub. Alternatively, you can create additional repositories with individual pages and link all of them.
 
 Use the Include directive in _config.yml. e.g., if you have a second page named list.md, this is how your configuration should look like:
+
 ```
 theme: jekyll-theme-slate
 title: 'How to: Multiple Pages in Github Pages'
@@ -23,6 +24,7 @@ inciude: list.md
 ```
 
 Then create a link in your readme.md, i.e., 
+
 ``` 
 [list](list.md)
 ```
