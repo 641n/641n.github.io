@@ -18,7 +18,7 @@ In order to add additional pages that matches your theme you need to do some tin
 Use the Include directive in _config.yml
 ```
 theme: jekyll-theme-slate
-title: Multiple Pages
+title: 'How to: Multiple Pages in Github Pages'
 inciude: list.md
 ```
 
